@@ -15,11 +15,13 @@ function Home() {
         <div className="container">
           <div className="text-wrapper">
             <h1 data-cy="homePageTitle" className="title">
-              Halo, saya Lutfhi Ramadhan
+              Hi my name is Alyssa.
             </h1>
             <p className="description">
-              Saya seorang pekerja lepas pengembang web, fotograper, desainer
-              antarmuka pengguna, dan penulis.
+              I am an electronics engineering student at the University of
+              Applied Sciences Vienna. I am also taking advantage that I only
+              have one class this semester and taking a Full Stack Web
+              Development Bootcamp.
             </p>
 
             <Link href="/contact">
